@@ -7,3 +7,7 @@
 Contador de visitas na nossa comunidade</br></br>
 <img alingn="center" src="https://profile-counter.glitch.me/programadores-cariocas/count.svg" /></br>
 </div>
+
+## Envolva-se
+
+No momento, comunidades abertas estão construindo softwares incríveis juntas, e há excelentes oportunidades de network e constante prática no desenvolvimento de novas ideias.
