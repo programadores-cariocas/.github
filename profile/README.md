@@ -1,5 +1,7 @@
 <div align="center">
-Bem-vindo(a) a comunidade dos Programadores Cariocas!
+<img src="https://github.com/programadores-cariocas/.github/blob/main/images/comunidade-programadores.png" />
+
+  
 </br>
 </br>
 Contador de visitas na nossa comunidade</br></br>
