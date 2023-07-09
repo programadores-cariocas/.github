@@ -13,7 +13,7 @@ Contador de visitas na nossa comunidade</br></br>
 
 ## Envolva-se
 
-No momento, comunidades abertas estão construindo softwares incríveis juntas, e há excelentes oportunidades de network e constante prática no desenvolvimento de novas ideias. Nossa comunidade tem uma projeção de ser totalmente escalável, agora em 2023 somos 1200 programadores formados, com previsão de 5000!
+No momento, comunidades abertas estão construindo softwares incríveis juntas, e há excelentes oportunidades de network e constante prática no desenvolvimento de novas ideias. Nossa comunidade tem uma projeção de ser totalmente escalável, agora em 2023 somos por volta de 900 programadores formados, com previsão de 5000!
 
 ## Grupo do WhatsApp:
 
