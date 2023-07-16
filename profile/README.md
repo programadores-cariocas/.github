@@ -19,6 +19,9 @@ No momento, comunidades abertas estão construindo softwares incríveis juntas, 
 
 - <a href="https://chat.whatsapp.com/LAYpVtCgqfs667isebRdyV">Acessar convite</a>
 
+## Link do formulário para aplicar na comunidade: 
+- <a href="https://forms.gle/pTiihFT9FP96sj5c6">Quero participar</a>
+
 ## Link do formulário de pré inscrição para as próximas turmas: 
 
 - <a href="https://docs.google.com/forms/d/1Rs2kaj8lsTNozbFpVXi2apnki533pO1hOoeLWEdRqn4/viewform?pli=1&pli=1&edit_requested=true#responses">Visitar Formulário</a>
